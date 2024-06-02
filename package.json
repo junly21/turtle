@@ -1,6 +1,6 @@
 {
-  "name": "turtle",
-  "displayName": "turtle",
+  "name": "turtle-neck-alarm",
+  "displayName": "turtle-neck-alarm",
   "description": "",
   "version": "0.0.1",
   "engines": {
@@ -43,5 +43,12 @@
   },
   "dependencies": {
     "node-notifier": "^10.0.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/junly21/turtle"
+  },
+  "license": "MIT",
+  "id": "turtle-alarm",
+  "publisher": "i-dear"
 }
